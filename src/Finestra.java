@@ -325,6 +325,8 @@ public class Finestra extends JFrame {
 
          */
 
+        // prova
+
         // ── Root background panel ──────────────────────────
         JPanel bgPanel = new JPanel() {
             @Override
